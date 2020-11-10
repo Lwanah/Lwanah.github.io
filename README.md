@@ -26,8 +26,9 @@
  
 </section>
 
+<h1>Mais sobre mim</>
 <details open>
-		<summary>Mais sobre mim</summary>
+		<summary>Minha nacionalidade</summary>
 		Nasci em Angola e vivo em Portugal há dois anos.
 </details>
 

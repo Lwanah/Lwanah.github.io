@@ -2,7 +2,7 @@
 <a href="https://lwanah.github.io/Tpc1.HTML5/">Um </a>
  
  <h1>Comidas preferidas</h1>
-    <ul>
+   <p> <ul>
 		<li>Massa
 		</li>
 		<li>Feijoada
@@ -10,7 +10,7 @@
  	<li>Batata-frita
 			</li>
     </ul>
-    
+   </p> 
     
    <section>
 		<h3>Feitos</h3>

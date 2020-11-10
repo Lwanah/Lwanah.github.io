@@ -21,7 +21,8 @@
 		   </p>
  <p>Progresso na vida (30%)
                    <progress value = "0.3"></progress><br/>
-	<progress max = "100" value = "30"></progress>
+	Nota no tópico de 1 a 5 (4) 
+                   <progress max = "5" value = "4"></progress>
 		   </p>
  
 </section>

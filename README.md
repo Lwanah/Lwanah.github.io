@@ -26,7 +26,7 @@
  
 </section>
 
-<h1>Mais sobre mim</>
+<h1>Mais sobre mim</h1>
 	
 <details open>
 		<summary>Minha nacionalidade</summary>

@@ -21,13 +21,16 @@
 		   </p>
  <p>Progresso na vida (30%)
                    <progress value = "0.3"></progress><br/>
-	Nota no tópico de 1 a 5 (4) 
-                   <progress max = "5" value = "4"></progress>
-		   </p>
+	
+ </p>
  
 </section>
 
-<h1>Mais sobre mim </h1>
+<details open>
+		<summary>Mais sobre mim</summary>
+		Nasci em Angola e vivo em Portugal há dois anos.
+</details>
+
 
  
 
